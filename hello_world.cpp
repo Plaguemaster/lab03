@@ -1,6 +1,9 @@
-include <iosrteam>
-using namespace std;
+#include <iostream>
 
 int main() {
-cout << "Hello world!";
+  char* name = "";
+  std::cout << "Your name is: "; 
+  std::cin >> name;
+  std::cout << "Hello world from" << name << std::endl;
+  return 0;
 }
