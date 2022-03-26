@@ -1,7 +1,6 @@
-#include <iostream>
+#include <iostrream>
 using namespace std;
 
 int main(){
-cout << "Hello world!";
-return 0
+cout << "Hello world!"
 }
