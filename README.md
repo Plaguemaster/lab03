@@ -2,6 +2,7 @@ I)
 Task 1, 2:
 
 ![Task1,2](https://github.com/Touir/Lab02/blob/master/1%2C2.png)
+
 Task 3:
 
 ![Task3](https://github.com/Touir/Lab02/blob/master/3.png)
