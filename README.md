@@ -31,4 +31,66 @@ Task 9:
 
 ![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
 
+II)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 9:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
 
