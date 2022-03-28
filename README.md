@@ -109,7 +109,7 @@ Task 5:
 
 Task 6:
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+![Task3](https://github.com/Touir/Lab02/blob/master/3.6-3.7.png)
 
 Task 7:
 
