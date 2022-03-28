@@ -85,5 +85,38 @@ Task 12:
 
 ![Task3](https://github.com/Touir/Lab02/blob/master/2.12.png)
 
+III)
+
+Task 1:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/3.1.png)
+
+Task 2:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/3.2.png)
+
+Task 3:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/3.3.png)
+
+Task 4:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/3.4.png)
+
+Task 5:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/3.5.png)
+
+Task 6:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+
+Task 7:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/3.7.png)
+
+Task 8:
+
+![Task3](https://github.com/Touir/Lab02/blob/master/3.8.png)
 
 
