@@ -33,64 +33,57 @@ Task 9:
 
 II)
 
-Task 9:
+Task 1:
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+![Task3](https://github.com/Touir/Lab02/blob/master/2.1.png)
 
-Task 9:
+Task 2:
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+![Task3](https://github.com/Touir/Lab02/blob/master/2.2.png)
 
-Task 9:
+Task 3:
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+![Task3](https://github.com/Touir/Lab02/blob/master/2.3.1.png)
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.3.2.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+Task 4:
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.4.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+Task 5:
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.5.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+Task 6:
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.6.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+Task 7:
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.7.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+Task 8:
 
-Task 9:
-
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+![Task3](https://github.com/Touir/Lab02/blob/master/2.8.png)
 
 Task 9:
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+![Task3](https://github.com/Touir/Lab02/blob/master/2.9.1.png)
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.9.2.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+Task 10:
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.10.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+Task 11:
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.11.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
+Task 12:
 
-Task 9:
+![Task3](https://github.com/Touir/Lab02/blob/master/2.12.png)
 
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
-
-Task 9:
-
-![Task3](https://github.com/Touir/Lab02/blob/master/9.png)
 
 
