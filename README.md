@@ -1,6 +1,6 @@
 Task1:
 
-![Task3](https://github.com/Touir/Lab03/blob/master/1.1.png)
+![Task3](https://github.com/Touir/lab03/blob/master/Screenshot_1.png)
 
 ![Task3](https://github.com/Touir/Lab03/blob/master/1.2.png)
 
